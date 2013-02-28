@@ -1,0 +1,11 @@
+{
+    "name": "node-packet-parsers",
+    "version": "0.0.1",
+    "private": false,
+    "dependencies": {
+        "coffee-script": "*",
+        "sugar": "*",
+        "underscore": "*",
+        "underscore.string": "*"
+    }
+}

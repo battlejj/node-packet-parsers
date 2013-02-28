@@ -1,5 +1,5 @@
-translateEthertype = require('./TranslateEthertype')
-getBitsFromBytes = require('./getBitsFromBytes')
+translateEthertype = require('.lib/TranslateEthertype')
+getBitsFromBytes = require('.lib/getBitsFromBytes')
 _ = require('underscore')
 _.str = require('underscore.string')
 _.mixin(_.str.exports())
